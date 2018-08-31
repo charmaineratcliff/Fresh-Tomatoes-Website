@@ -11,7 +11,7 @@ legends_of_the_fall = media.Movie("Legends of the Fall",
 
 ferris_bueller = media.Movie("Ferris Bueller's Day Off",
 "https://upload.wikimedia.org/wikipedia/en/9/9b/Ferris_Bueller%27s_Day_Off.jpg",
-"https://www.youtube.com/watch?v=R-P6p86px6U")
+"https://www.youtube.com/watch?v=D6gABQFR94U")
 
 forrest_gump = media.Movie("Forrest Gump",
 "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
